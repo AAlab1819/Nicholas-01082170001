@@ -16,7 +16,7 @@
 7.if there is need addition  yellow/blue crystal for making the ball, I make a algorithm that for the yellow, if the yellow crystal
 that we have/input is less than yellow crystal we make, the total will change into the yellow crystal we make will subtract with the yellow crystal we have/input, and do the same thing with the blue crystal thing.
 
-  
+[Problem](http://codeforces.com/contest/912/problem/A)  
 [Solution](http://codeforces.com/contest/912/submission/42449528)
  
  
@@ -36,8 +36,11 @@ that we have/input is less than yellow crystal we make, the total will change in
  
 7.done !
  
-      
+[Problem](http://codeforces.com/contest/854/problem/A)      
 [Solution](http://codeforces.com/contest/854/submission/42448669)
     
     
 ## 988A Diverse Team
+
+[Problem](http://codeforces.com/contest/988/problem/A)
+[Solution]
