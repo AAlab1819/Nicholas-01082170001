@@ -11,6 +11,9 @@
      that we have/input is less than yellow crystal we make, the total will change into the yellow crystal we make will subtract with the 
      yellow crystal we have/input, and do the same thing with the blue crystal thing.
   
+  Solution : http://codeforces.com/contest/912/submission/42449528
+  
+  
   854A Fraction
     1.split a number to a fraction with the numerator+denominator=number
     2. then the numerator and denominator cannot division by each other
@@ -23,6 +26,9 @@
     6. then for the odd number (else statement) i just divide the numerator into half and the denominator algorithm is the numerator after
       the division plus 1
     7.done !
+    
+    Solution : http://codeforces.com/contest/854/submission/42448669
+    
     
     988A Diverse Team
     
