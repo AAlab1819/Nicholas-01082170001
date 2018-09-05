@@ -1,5 +1,6 @@
 
 912A Tricky Alchemy
+
   1.to make yelow ball = 2 yellow crystal
   2.to make green ball = 1 yellow crystal + 1 blue crystal
   3.to make blue ball = 3 blue crystal
@@ -15,6 +16,7 @@
   
   
   854A Fraction
+  
     1.split a number to a fraction with the numerator+denominator=number
     2. then the numerator and denominator cannot division by each other
     3. i make 2 if conditions that hold even and odd number. First input a number want to divide
@@ -31,5 +33,6 @@
     
     
     988A Diverse Team
+    
     
     :)
