@@ -1,6 +1,5 @@
 
 912A Tricky Alchemy
-
   1.to make yelow ball = 2 yellow crystal
   2.to make green ball = 1 yellow crystal + 1 blue crystal
   3.to make blue ball = 3 blue crystal
@@ -12,11 +11,10 @@
      that we have/input is less than yellow crystal we make, the total will change into the yellow crystal we make will subtract with the 
      yellow crystal we have/input, and do the same thing with the blue crystal thing.
   
-  Solution : http://codeforces.com/contest/912/submission/42449528
-  
-  
-  854A Fraction
-  
+Solution : http://codeforces.com/contest/912/submission/42449528
+ 
+ 
+ 854A Fraction
     1.split a number to a fraction with the numerator+denominator=number
     2. then the numerator and denominator cannot division by each other
     3. i make 2 if conditions that hold even and odd number. First input a number want to divide
@@ -28,11 +26,8 @@
     6. then for the odd number (else statement) i just divide the numerator into half and the denominator algorithm is the numerator after
       the division plus 1
     7.done !
-    
-    Solution : http://codeforces.com/contest/854/submission/42448669
-    
-    
-    988A Diverse Team
+      
+Solution : http://codeforces.com/contest/854/submission/42448669
     
     
-    :)
+988A Diverse Team
