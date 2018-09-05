@@ -1,4 +1,4 @@
-
+# WEEK 1 (31 AUGUST 2018 - 6 SEPTEMBER 2018)
 ## 912A Tricky Alchemy
 
 1.to make yelow ball = 2 yellow crystal
