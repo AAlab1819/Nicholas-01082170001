@@ -7,13 +7,13 @@
 
 3.to make blue ball = 3 blue crystal
 
-4.i make a variable that hold calculation for make how many needs yellow crystal (yelMake)
+4.I make a variable that hold calculation for make how many needs yellow crystal (yelMake)
 
-5.then i do the same for the blue Crystal too (blueMake)
+5.then I do the same for the blue Crystal too (blueMake)
 
 6.if there is no need addition yellow/blue crystal for making the ball, it goes straight forward to the end with total. (i set total to the 0 at the 1st time)
 
-7. if there is need addition  yellow/blue crystal for making the ball, i make a algorithm that for the yellow, if the yellow crystal
+7.if there is need addition  yellow/blue crystal for making the ball, I make a algorithm that for the yellow, if the yellow crystal
 that we have/input is less than yellow crystal we make, the total will change into the yellow crystal we make will subtract with the yellow crystal we have/input, and do the same thing with the blue crystal thing.
 
   
@@ -24,15 +24,15 @@ that we have/input is less than yellow crystal we make, the total will change in
  
 1.split a number to a fraction with the numerator+denominator=number
  
-2. then the numerator and denominator cannot division by each other
+2.then the numerator and denominator cannot division by each other
  
-3. i make 2 if conditions that hold even and odd number. First input a number want to divide
+3.I make 2 if conditions that hold even and odd number. First input a number want to divide
  
-4.for the even number i make the algorithm with the numerator (up) divide by 2 and minus 1, and the denominator (down) divide by 2 and plus 1. why minus 1 and plus 1 ? because it says the numerator cant greater than the denominator.
+4.for the even number I make the algorithm with the numerator (up) divide by 2 and minus 1, and the denominator (down) divide by 2 and plus 1. why minus 1 and plus 1 ? because it says the numerator cant greater than the denominator.
  
-5. then still in the even number function, i make a nest if that hold the numerator number is still even number (this if statement made  because the numerator and denominator after the calculation before still even). This if statement hold a algorithm the numerator will minus 1 again and transfer the 1 into the denominator.
+5.then still in the even number function, I make a nest if that hold the numerator number is still even number (this if statement made  because the numerator and denominator after the calculation before still even). This if statement hold a algorithm the numerator will minus 1 again and transfer the 1 into the denominator.
  
-6. then for the odd number (else statement) i just divide the numerator into half and the denominator algorithm is the numerator after the division plus 1
+6.then for the odd number (else statement) I just divide the numerator into half and the denominator algorithm is the numerator after the division plus 1
  
 7.done !
  
