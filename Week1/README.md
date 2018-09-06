@@ -51,4 +51,5 @@ that we have/input is less than yellow crystal we make, the total will change in
 4.then else statement for the "YES" or can make the team, for loop condition is the solution with the following condition algorithm
 
 [Problem](http://codeforces.com/contest/988/problem/A)
+
 [Solution](http://codeforces.com/contest/988/submission/42558072)
