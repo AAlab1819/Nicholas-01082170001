@@ -42,5 +42,13 @@ that we have/input is less than yellow crystal we make, the total will change in
     
 ## 988A Diverse Team
 
+1.the problem is can we make a team with a member that consist each member is the different rating than the other
+
+2.first i make algorithm for input the data, i make a variable counter for filling the array, and map function with check variable for the following place/location
+
+3.then if statement for the "NO" or can't make the team, if there are numbers duplicate map will read it only 1 number, so check variable size < team (variable for how many member) is the if statement for "NO"
+
+4.then else statement for the "YES" or can make the team, for loop condition is the solution with the following condition algorithm
+
 [Problem](http://codeforces.com/contest/988/problem/A)
-[Solution]
+[Solution](http://codeforces.com/contest/988/submission/42558072)
