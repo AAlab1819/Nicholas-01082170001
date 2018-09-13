@@ -15,7 +15,9 @@
 
 7.if the for loop is done and the bool finals is true cout yes and cout no for the bool finals false
 
+[Problem](http://codeforces.com/contest/230/problem/A)
 
+[Solution](http://codeforces.com/contest/230/submission/42799348)
 
 ## 768A OATH OF THE NIGHT'S WATCH
 
@@ -31,6 +33,20 @@
 
 6.at last cout the counter
 
+[Problem](http://codeforces.com/contest/768/problem/A)
+
+[Solution](http://codeforces.com/contest/768/submission/42774017)
+
 ## 291A SPYKE TALKS
 
-1.
+1.first input how many person
+
+2.then we input each person number
+
+3.if the number is duplicate twice we count as 1 and will addition for the other number ++, if the number duplicate 3 times or more cout -1
+
+4.using the insertion sort for sorting
+
+[Problem](http://codeforces.com/contest/291/problem/A)
+
+[Solution](http://codeforces.com/contest/291/submission/42711690)
