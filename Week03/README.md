@@ -71,6 +71,13 @@ Best case complexity : Ω(n)
 
 7.to make it more decimal (the output want 10 numbers behind the coma) make it with fixed<<setprecision(10) and output the d
 
+
+Worst case complexity : O(n log(n))
+
+Average case complexity : θ(n log(n))
+
+Best case complexity : Ω(1)
+
 [Problem](http://codeforces.com/problemset/problem/492/B)
 
 [Solution](http://codeforces.com/contest/492/submission/43085189)
