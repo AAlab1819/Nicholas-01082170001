@@ -57,8 +57,20 @@ Best case complexity : Ω(n)
 
 # 492B VANYA AND LANTERNS
 
+1.for the radius i declare it as a double because the prolem want to decimal number
 
+2.after i input the number i sort the n (lantern)
+
+3.to find d i find it with arr[i] - arr[i-1] for loop until loop end to find which is the very longest gap
+
+4.then d = d/2
+
+5.i make if condition if the arr[0]>d , i set it d = arr[0]
+
+6.the last if condition if l-arr[n-1] > d, i set it d = l-arr[n-1]
+
+7.to make it more decimal (the output want 10 numbers behind the coma) make it with fixed<<setprecision(10) and output the d
 
 [Problem](http://codeforces.com/problemset/problem/492/B)
 
-[Solution]
+[Solution](http://codeforces.com/contest/492/submission/43085189)
