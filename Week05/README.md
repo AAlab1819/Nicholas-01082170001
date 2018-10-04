@@ -4,6 +4,8 @@
 	2.	then input the words
 	3.	if new words, cout OK
 	4.	if the words same with before , cout the words+1,words+2,words+3.....
+	
+	complexity = O(n(log(n))
 
 [Problem](http://codeforces.com/problemset/problem/4/C)
 
@@ -16,6 +18,8 @@
 	4.	i use "temp" to hold the max group for a moment, and finally compare with the "groups"
 	5.	cout the groups
 	
+	complexity = O(n^2)
+	
 [Problem](http://codeforces.com/problemset/problem/115/A)
 
 [Solution](http://codeforces.com/problemset/submission/115/43747804)
@@ -26,6 +30,8 @@
 	3.	if the tree[i] is empty just continue
 	4.	else, check how many leaf in the tree, if the leaf < 3 , cout NO, and return 0
 	5.	cout YES, return 0
+	
+	complexity = O(n(log(n))
 
 [Problem](http://codeforces.com/problemset/problem/913/B)
 
