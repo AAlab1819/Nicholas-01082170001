@@ -4,6 +4,8 @@
 	2. with the algorithm ( arr[k] = max(arr[k],arr[k - itemWeight[j]] + itemPrice[j]); ) *nested for loop to access the array
 	3. cout the total how much weight can each person bring
 	
+Complexity : O (t.n.mw)
+
 ## 147 Dollar
 	1. example :	$5.00 = 500 cents
 			$2.00 = 200 cents
@@ -20,3 +22,5 @@
               c[j] += c[j - coins[i]];
            }
 	)
+
+Complexity : O (n^2)
