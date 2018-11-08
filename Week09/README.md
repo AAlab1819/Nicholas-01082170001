@@ -7,6 +7,7 @@
 ## 147 Dollar
 	1. example :	$5.00 = 500 cents
 			$2.00 = 200 cents
+			$7.80 = 780 cents
 			$300.00 = 30000 cents
 	2. find how many ways the coins can be made and that is the answer
 	3. put all the ways the coin to an array. then use that calculate count.
